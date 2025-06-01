@@ -1,7 +1,7 @@
 # Title Project:
 Pengaruh Gaya Hidup Mahasiswa terhadap Performa Akademik Menggunakan Analisis Korelasi dan Statistik Deskriptif
 
-#Project Overview:
+# Project Overview:
 Proyek ini bertujuan untuk menganalisis hubungan antara faktor-faktor gaya hidup mahasiswa, seperti durasi belajar, penggunaan media sosial, kebiasaan menonton Netflix, kualitas tidur, frekuensi olahraga, hingga kesehatan mental terhadap performa akademik yang diukur dari nilai ujian. Penelitian ini relevan karena banyaknya faktor eksternal yang dapat memengaruhi prestasi mahasiswa. Dengan pendekatan eksplorasi data (EDA), korelasi, dan visualisasi, diharapkan diperoleh insight mendalam untuk peningkatan performa belajar mahasiswa.
 
 # Raw Dataset Link:
@@ -16,7 +16,7 @@ https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-perform
 5. Persentase kehadiran dan waktu tidur tidak menunjukkan pengaruh signifikan secara statistik, walaupun kehadiran memiliki korelasi +0.09.
 
 # AI Support Explanation:
-## Dalam proyek ini, AI digunakan untuk:
+### Dalam proyek ini, AI digunakan untuk:
 
 * Analisis korelasi secara otomatis menggunakan pustaka Python (seperti pandas dan seaborn).
 * Visualisasi data yang didukung oleh pemrosesan otomatis Python.
